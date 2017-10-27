@@ -1,4 +1,4 @@
-package ps.java.tutorial.treeiterated;
+package ps.java.tutorial.treeiteration;
 
 import java.io.File;
 
