@@ -4,7 +4,7 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TreeIterated {
+public class TreeIteration {
 
     public static void main(final String... a) {
         final File root = new File(".");
